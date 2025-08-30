@@ -1,0 +1,9 @@
+langchain
+langchain_community
+streamlit
+python-dotenv
+langchain_ollama
+langchain_groq
+langchain-text-splitters
+chromadb
+pypdf
