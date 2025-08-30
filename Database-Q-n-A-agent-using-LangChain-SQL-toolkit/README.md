@@ -2,16 +2,17 @@
 
 A powerful Streamlit application that allows you to chat with your SQL databases using natural language queries powered by AI. This application supports both SQLite and MySQL databases and provides an intuitive chat interface for database exploration.
 
+
+https://github.com/user-attachments/assets/a4c21b96-c3dc-4f04-815d-058a47f620a6
+
+
+
+
 ## ✨ Features
 
 - **🤖 AI-Powered Queries**: Use natural language to query your database
 - **🗃️ Multi-Database Support**: Connect to SQLite or MySQL databases
 - **💬 Interactive Chat Interface**: Chat-like experience with conversation history
-- **🔒 Secure**: Input validation and connection security
-- **📊 Rich Data Display**: Beautiful formatting for query results
-- **🔄 Session Management**: Persistent chat history and state management
-- **⚡ Real-time Processing**: Live streaming of AI responses
-- **🎨 Modern UI**: Beautiful, responsive interface with custom styling
 
 ## 🚀 Quick Start
 
@@ -113,26 +114,6 @@ To connect to a MySQL database:
 - **Temperature**: 0.1 (for consistent responses)
 - **Streaming**: Enabled for real-time responses
 
-## 🛡️ Security Features
-
-- **Input Validation**: Query validation and sanitization
-- **Connection Security**: Secure database connection handling
-- **Error Handling**: Comprehensive error management without exposing sensitive information
-- **Session Isolation**: Secure session state management
-
-## 🎨 UI Components
-
-### Custom Styling
-- **Gradient Header**: Beautiful gradient background for the main title
-- **Status Indicators**: Color-coded status messages
-- **Chat Interface**: Styled chat bubbles for user and assistant messages
-- **Responsive Design**: Mobile-friendly interface
-
-### Interactive Elements
-- **Sidebar Configuration**: Easy access to all settings
-- **Status Dashboard**: Real-time application status
-- **Reset Button**: Clear session and start fresh
-- **Form Validation**: User-friendly input validation
 
 ## 🐛 Troubleshooting
 
@@ -179,14 +160,6 @@ The application provides detailed error messages for:
 - **Efficient Queries**: Optimized database query execution
 - **Memory Management**: Efficient session state handling
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for:
-- Bug reports
-- Feature requests
-- Documentation improvements
-- UI/UX enhancements
-
 
 ## 🙏 Acknowledgments
 
@@ -194,14 +167,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - **Streamlit**: For the excellent web application framework
 - **Groq**: For the fast AI model inference
 - **SQLAlchemy**: For robust database abstraction
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the troubleshooting section
-2. Review error messages in the application
-3. Open an issue on the repository
-4. Check the documentation for your specific use case
 
 ---
 
