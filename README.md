@@ -1,2 +1,6 @@
-# Simple Gen AI POCs using Langchain: 
-[Q-n-A-chatbot-with-langchain#qa-chatbot-with-langchain](https://github.com/gauravshinde1816/GenAI-poc/tree/main/Q-n-A-chatbot-with-langchain#qa-chatbot-with-langchain)
+# Simple POCs using LangChain
+
+## 📋 Table of Contents
+
+- [Q&A Chatbot with LangChain](./Q-n-A-chatbot-with-langchain/ReadMe.md)
+- [Conversational Document RAG using Ollama & Groq](./conversational-document-rag-using-ollama-groq/ReadMe.md)
