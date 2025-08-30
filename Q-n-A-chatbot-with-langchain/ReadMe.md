@@ -2,6 +2,10 @@
 
 A powerful question-and-answer chatbot built with modern AI technologies, featuring multimodal support, vector search, and  Streamlit interface.
 
+
+<img width="1708" height="940" alt="image" src="https://github.com/user-attachments/assets/3ae70007-10dd-4169-9a26-8b348768e1eb" />
+
+
 ## 🚀 Technologies Used
 
 - **Streamlit** - Modern web application framework for data science
