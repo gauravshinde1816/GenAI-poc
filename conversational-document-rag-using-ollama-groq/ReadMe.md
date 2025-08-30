@@ -2,6 +2,9 @@
 
 A sophisticated conversational chatbot that uses Retrieval-Augmented Generation (RAG) to answer questions about uploaded documents. Built with Streamlit, LangChain, and powered by Groq's LPU inference engine.
 
+<img width="1618" height="987" alt="image" src="https://github.com/user-attachments/assets/eab9270c-6240-4a0c-8dd3-e96ae484b449" />
+
+
 ## 🚀 Features
 
 - **Document Upload & Processing**: Upload PDF documents and automatically process them for RAG
