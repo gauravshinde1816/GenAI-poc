@@ -624,8 +624,6 @@ for step in range(1, max_iters + 1):
 
 ---
 
-# 🔗 Part 3: Professional Resources and Next Steps
-
 ## Key Takeaways
 
 ✅ **What You Now Understand:**
@@ -634,13 +632,6 @@ for step in range(1, max_iters + 1):
 - How multi-head attention captures different relationships
 - The importance of residual connections and layer normalization
 - Complete implementation from scratch
-
-## Performance Optimization Tips
-
-1. **Gradient Accumulation:** For larger effective batch sizes
-2. **Learning Rate Scheduling:** Cosine annealing or linear warmup
-3. **Mixed Precision Training:** FP16 for faster training
-4. **Attention Optimization:** Flash Attention for memory efficiency
 
 ## What's Next? 🚀
 
@@ -655,9 +646,13 @@ In upcoming posts, I'll cover:
 
 ## 📖 References & Further Reading
 
-- **Original Paper:** ["Attention Is All You Need" (Vaswani et al., 2017)](https://arxiv.org/pdf/1706.03762)
-- [GPT-2: Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- ["Attention Is All You Need" (Vaswani et al., 2017)](https://arxiv.org/pdf/1706.03762)
+
 - [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165)
+
+- [Neural Network: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+- [Transformers, the tech behind LLMs by 3Blue1Brown](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
 - **Libraries:** PyTorch, Transformers, Tokenizers, Datasets
 
 ---
@@ -669,4 +664,4 @@ In upcoming posts, I'll cover:
 ---
 **What would you like to see next?** Drop your suggestions in the comments!
 
-#MachineLearning #DeepLearning #Transformers #AI #NLP #PyTorch #GPT #LLM #TechEducation #Programming
+#LLMTraining #GenAI #MachineLearning #DeepLearning #Transformers #AI #NLP #PyTorch #GPT #LLM #TechEducation #Programming
